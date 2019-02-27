@@ -1,0 +1,18 @@
+Number: 456602595409
+Digits: 12
+Complexity: 18141209.25156814
+Prime factors: [501701, 910109]
+Spent time: 0.566 sec.
+
+Number: 7789641255881
+Digits: 13
+Complexity: 82847318.89021914
+Prime factors: [1998881, 3897001]
+Spent time: 2.289 sec.
+
+Number: 924380743486033
+Digits: 15
+Complexity: 1047713518.184114
+Prime factors: [10253011, 90157003]
+Spent time: 11.901 sec.
+
